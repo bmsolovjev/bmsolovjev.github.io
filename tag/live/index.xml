@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Live | Academic</title>
+    <link>http://localhost:1313/tag/live/</link>
+      <atom:link href="http://localhost:1313/tag/live/index.xml" rel="self" type="application/rss+xml" />
+    <description>Live</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Live</title>
+      <link>http://localhost:1313/tag/live/</link>
+    </image>
+    
+    <item>
+      <title>Как я провёл неделю</title>
+      <link>http://localhost:1313/post1/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post1/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Поездка в Саратов оказалась незабываемым приключением. Я отправился в этот город на юге России, чтобы исследовать его историю, культуру и красоты.
+Прибыв в Саратов, меня поразила его уникальная архитектура. Город расположен на берегу Волги, и его исторический центр украшен великолепными зданиями, которые напоминают о богатом прошлом этого места.
+Я также побывал в многочисленных музеях и галереях Саратова, где познакомился с богатой историей и культурой этого региона. Особенно запомнилась поездка в музей известного русского художника Константина Коровина, который родился и вырос в Саратове.
+Вечерами я гулял по живописным набережным Волги, наслаждаясь красивыми закатами и уютными ресторанами, где можно попробовать местные деликатесы.
+Поездка в Саратов стала для меня настоящим открытием и приятным отдыхом. Я узнал о многом новом, почувствовал дух этого замечательного города и оставил в сердце частичку его неповторимой атмосферы.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post1/saratov_huc59bb89e3b5cc2068e00393028c47872_11752_357a68d0c5aa0a9d3183987113d1e1b0.webp 400w,
+               /post1/saratov_huc59bb89e3b5cc2068e00393028c47872_11752_700aa16d41f9113e1f8c15af24f700ed.webp 760w,
+               /post1/saratov_huc59bb89e3b5cc2068e00393028c47872_11752_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post1/saratov_huc59bb89e3b5cc2068e00393028c47872_11752_357a68d0c5aa0a9d3183987113d1e1b0.webp&#34;
+               width=&#34;320&#34;
+               height=&#34;144&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
